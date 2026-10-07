@@ -3,7 +3,7 @@ shortname: UAI
 booktitle: Proceedings of the Forty-first Conference on Uncertainty in Artificial
   Intelligence
 year: '2025'
-start: &1 2025-07-21
+start: 2025-07-21
 end: 2025-07-25
 published: 2025-07-11
 volume: '286'
@@ -69,7 +69,7 @@ conference:
   url: https://www.auai.org/uai2025/
   location: Rio Othon Palace, Rio de Janeiro, Brazil
   dates:
-  - *1
+  - 2025-07-21
   - 2025-07-22
   - 2025-07-23
   - 2025-07-24
